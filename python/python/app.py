@@ -327,7 +327,7 @@ thislist = ["apple","banana","cherry"]
 thislist.insert(2,"wilches")
 print(thislist)
 '''
-#------------------------------------------------ agregrar despues del string siguiente por la posicion
+#------------------------------------------------ agregrar informacion a un array
 '''
 my_list = []  
 
